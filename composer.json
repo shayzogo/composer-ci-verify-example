@@ -1,6 +1,7 @@
 {
     "name": "shayzeevi/composer-ci-verify-example",
     "type": "project",
+    "description": "this is a ci test description",
     "license": "MIT",
     "autoload": {
         "psr-4": {
