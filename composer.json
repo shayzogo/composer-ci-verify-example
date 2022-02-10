@@ -1,0 +1,13 @@
+{
+    "name": "shayzeevi/composer-ci-verify-example",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Shayzeevi\\ComposerCiVerifyExample\\": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
